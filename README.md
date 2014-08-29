@@ -1,6 +1,7 @@
 DNA clustering and genome complexity
+------------------------------------
 
-Web supplement of the paper:
+**Web supplement of the paper:**
 
 Dios F., G. Barturen, R. Lebrón, A. Rueda, M. Hackenberg and J.L. Oliver. 2014. DNA clustering and genome complexity. Computational Biology and Chemistry: http://www.sciencedirect.com/science/article/pii/S1476927114000905
 
